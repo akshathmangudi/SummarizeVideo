@@ -7,8 +7,10 @@ def link_to_audio(yt_link):
     """
     The following function converts a given YouTube link and converts it .mp3 (audio) file.
 
-    :param yt_link: The YouTube link
-    :return: returns a .mp3 file inside the /audio directory.
+    Arguments:
+    yt_link: The YouTube link
+
+    Returns: a .mp3 file inside the /audio directory.
     """
 
     # The root path and output path being defined here.
