@@ -6,4 +6,3 @@ torchsummary
 tqdm~=4.66.1
 pytube~=15.0.0
 openai-whisper
-soundfile~=0.12.1
