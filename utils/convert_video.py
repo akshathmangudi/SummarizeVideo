@@ -8,7 +8,7 @@ def link_to_audio(yt_link):
     The following function converts a given YouTube link and converts it .mp3 (audio) file.
 
     Arguments:
-    yt_link: The YouTube link
+    yt_link: The 0 YouTube link
 
     Returns: a .mp3 file inside the /audio directory.
     """
