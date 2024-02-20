@@ -13,13 +13,6 @@ summarization model which allows you to generate condensed summaries with respec
 * <a href="https://github.com/akshathmangudi/SummarizeVideo#licensing">Licensing</a>
 * <a href="https://github.com/akshathmangudi/SummarizeVideo#help">Help</a>
 
-## Overview
-
-The LLMBot is a Python application that uses a language model and natural language processing in which the use can 
-query multiple PDFs and can ask the bot on questions related to the PDF queried. The language model used for this
-application is the OpenAI model and Hugging Face models are used for embeddings. This application generates
-accurate answers to your queries. 
-
 ## Requirements
 ### Conda Environment
 Though one can use virtualvenv for virtual environments, it is standard to resort to conda environments. 
