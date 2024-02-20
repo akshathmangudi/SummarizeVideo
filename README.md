@@ -60,5 +60,5 @@ This repository is licensed under the MIT License. See the LICENSE file for deta
 
 ## Help
 If there are any queries, please write to: 
-akshath (me): akshathmangudi@gmail.com
-ivan: mail.ivanchristo@gmail.com
+1. akshath: akshathmangudi@gmail.com (or)
+2. ivan: mail.ivanchristo@gmail.com
